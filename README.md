@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bosco Chanam</h1>
 <h3 align="center">An aspiring full stack data scientist</h3>
 
-- 🔭 I’m currently working on **Project 1**
-
-- 🌱 I’m currently learning **React, Django, Flask, Multi-Task Learning**
-
-- 👯 I’m looking to collaborate on **Project 2**
-
-- 🤝 I’m looking for help with **Project 3**
-
-- 💬 Ask me about **Python, Pandas, CNNs**
-
 - 📫 How to reach me **boscochanam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
